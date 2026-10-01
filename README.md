@@ -1,5 +1,4 @@
-# Flappy-Birds
-Jogo de flappy birds clone teste 2D
+
 !DOCTYPE html>
 <html lang="pt-BR">
 <head>
